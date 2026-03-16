@@ -26,7 +26,7 @@ An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, prov
 ### Page 1 — Global Overview
 > *All Cars · Global Sales Summary*
 
-![Dashboard Overview](./screenshots/dashboard1.png)
+![Dashboard Overview](Screenshots/dashboard1.png)
 
 **What it shows:**
 - 📈 **Global Sales bar + line chart** (Revenue vs Revenue PY) — yearly from 2019 to 2023
@@ -42,7 +42,7 @@ An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, prov
 ### Page 2 — Model Detail View
 > *Drill-through per BMW model*
 
-![Dashboard Model Detail](./screenshots/dashboard2.png)
+![Dashboard Model Detail](Screenshots/dashboard2.png)
 
 **What it shows:**
 - 🚗 **Large model image** with model name (e.g. BMW M3)
@@ -82,13 +82,15 @@ An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, prov
 ## 🗂️ Repository Structure
 
 ```
-bmw-sales-dashboard/
-├── BMW_Sales_Dashboard.pbix     # Power BI file
+project bmw/
+├── Screenshots/
+│   ├── dashboard1.png          # Global overview page
+│   └── dashboard2.png          # Model detail page
 ├── dataset/
-│   └── bmw_sales.csv            # Raw dataset (from Kaggle)
-├── screenshots/
-│   ├── dashboard1.png           # Global overview page
-│   └── dashboard2.png           # Model detail page
+│   └── bmw_sales.csv           # Raw dataset (from Kaggle)
+├── BMW-M-Logo.png              # BMW M logo asset
+├── BMW-M-Logo (1).png          # BMW M logo asset (alt)
+├── BMW_Sales_Dashboard.pbix    # Power BI file
 └── README.md
 ```
 
