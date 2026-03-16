@@ -13,15 +13,15 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, providing deep insights into global BMW vehicle sales from **January 2019 to December 2023**. The dashboard enables business stakeholders to explore revenue trends, top-selling models, sales channels, and country-level performance — all in one place.
 
-> 📦 **Dataset source:** [Kaggle](https://www.kaggle.com) — BMW Sales Dataset
+>  **Dataset source:** [Kaggle](https://www.kaggle.com) — BMW Sales Dataset
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### Page 1 — Global Overview
 > *All Cars · Global Sales Summary*
@@ -57,13 +57,13 @@ An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, prov
 
 | Metric | Value |
 |:---|:---:|
-| 💰 Total Revenue (2019–2023) | **1,128.1 M€** |
-| 📅 Prior Year Revenue | 904.5 M€ |
-| 🚗 Total Units Sold | **15,002** |
-| 📈 Revenue Growth | **+24.7% ▲** |
-| 🏆 Top Selling Model | **BMW Z4 — 666 units** |
-| 💎 Most Expensive Model | **BMW M8 — $79.1K** |
-| 🌍 Top Country by Revenue Growth | **Thailand +20.9%** |
+|  Total Revenue (2019–2023) | **1,128.1 M€** |
+|  Prior Year Revenue | 904.5 M€ |
+|  Total Units Sold | **15,002** |
+|  Revenue Growth | **+24.7% ▲** |
+|  Top Selling Model | **BMW Z4 — 666 units** |
+|  Most Expensive Model | **BMW M8 — $79.1K** |
+|  Top Country by Revenue Growth | **Thailand +20.9%** |
 
 ---
 
@@ -96,21 +96,7 @@ project bmw/
 
 ---
 
-## 🚀 How to Use
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/AbdellahKoulla/bmw-sales-dashboard.git
-
-# 2. Open the Power BI file
-# → Requires Power BI Desktop (free)
-# → Download: https://powerbi.microsoft.com/desktop
-
-# 3. If needed, relink the dataset
-# → Transform Data > Data Source Settings > update path to dataset/bmw_sales.csv
-```
-
----
 
 ## 📦 Dataset Info
 
