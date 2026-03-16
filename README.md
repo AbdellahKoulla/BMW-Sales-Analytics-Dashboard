@@ -26,7 +26,7 @@ An interactive **BMW M Sales Analytics Dashboard** built with **Power BI**, prov
 ### Page 1 — Global Overview
 > *All Cars · Global Sales Summary*
 
-![Dashboard Overview](Screenshots/dashboard1.png)
+![Dashboard Overview](/projectbmwScreenshots/dashboard1.png)
 
 **What it shows:**
 - 📈 **Global Sales bar + line chart** (Revenue vs Revenue PY) — yearly from 2019 to 2023
